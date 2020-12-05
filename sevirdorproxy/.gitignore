@@ -1,1 +1,5 @@
 /ServerProxy.class
+/ClientProxy.class
+/ProxyServer.class
+/ProxyClient.class
+/ProxyFilter.class
